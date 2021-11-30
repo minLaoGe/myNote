@@ -1,3 +1,4 @@
+```java
 class Solution {
     public String convert(String s,int rowNum){
         if(rowNum<2){
@@ -64,6 +65,8 @@ class Solution {
     }
 }
 
+
+```
 作者：LeetCode
 链接：https://leetcode-cn.com/problems/zigzag-conversion/solution/z-zi-xing-bian-huan-by-leetcode/
 来源：力扣（LeetCode）
